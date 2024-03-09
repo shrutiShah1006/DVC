@@ -1,0 +1,5 @@
+[core]
+    remote = remote_storage
+    analytics = false
+['remote "remote_storage"']
+    url = https://github.com/shrutiShah1006/DVC
